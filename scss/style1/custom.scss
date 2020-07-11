@@ -1,0 +1,9 @@
+/*forms*/
+.form-control{
+  margin-bottom: 10px;
+  border:none;
+
+  &:focus{
+    box-shadow: 0 4px 12px -12px gray;
+  }
+}

@@ -1,0 +1,28 @@
+
+@import url(http://fonts.googleapis.com/css?family=Crafty+Girls|Ubuntu|Open+Sans:400italic,700italic,400,700);
+
+//font
+$font-family-base: "Crafty Girls", Arial, sans-serif;
+
+//couleur de base
+$custom-color-base: #5126a0;
+
+//couleurs body et font
+$body-bg: #d28cd4;
+$body-color: #53186f;
+
+// borders
+$border-radius:5rem;
+$border-radius-lg:$border-radius;
+
+//couleurs
+$primary: lighten($custom-color-base , 20%);
+
+
+//nouvelles combinaisons
+$ternary: #ecea09;
+$theme-colors: (
+  "ternary": $ternary,
+);
+
+
