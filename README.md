@@ -1,11 +1,11 @@
-#SASS Workshop
+# SASS Workshop
 
-#1.Step by step
+## 1.Step by step
 
 - installation node.js / npm
 - installation de SASS
 
-#2. Lancer le projet
+## 2. Lancer le projet
 
 **installer les packages**
 
