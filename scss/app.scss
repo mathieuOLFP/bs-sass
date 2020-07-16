@@ -1,0 +1,43 @@
+@import "style1/custom_variables";
+@import "style2/custom_variables";
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+
+
+.container{
+  min-height: 100vh;
+  height: 100%;
+}
+
+.form-container{
+  min-height:100vh;
+}
+
+.form-signin{
+  width:100%;
+  min-width: 320px;
+  max-width: 460px;
+}
+
+.form-control{
+  color: green;
+  background: red;
+}
+
+.form-login{
+  background-color: red;
+
+  .form-control{
+    color:white;
+    /*pas de bg defini*/
+  }
+}
+
+
+
+
+
+
+

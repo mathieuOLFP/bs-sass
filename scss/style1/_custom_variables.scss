@@ -1,7 +1,7 @@
 
 @import url(http://fonts.googleapis.com/css?family=Fondamento|Ubuntu|Open+Sans:400italic,700italic,400,700);
 
-$custom-color-base: #002765;
+$custom-color-base: black;
 
 $body-bg: #373939;
 $body-color: white;
@@ -16,6 +16,11 @@ $ternary: lighten($custom-color-base , 20%);
 
 $theme-colors: (
   "ternary": $ternary,
+  "olfp" : violet
 );
+
+$grid-breakpoints: (
+        xxl: 1600px
+) ;
 
 
